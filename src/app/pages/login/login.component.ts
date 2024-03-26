@@ -5,7 +5,7 @@ import { DefaultPageComponent } from '../../components/default-page/default-page
   selector: 'app-login',
   standalone: true,
   imports: [
-    DefaultPageComponent
+    DefaultPageComponent,
   ],
   templateUrl: './login.component.html',
   styleUrl: './login.component.scss'
